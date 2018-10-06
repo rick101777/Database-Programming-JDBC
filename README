@@ -1,0 +1,22 @@
+********************DISCLAIMER**********************
+***
+***	This application was built on a linux system
+***	Therefore, Within DatabaseCommunicator, DIRECTORY_PATH variable must be changed for WINDOWS
+***	Change forward slashed "/" for backslashes "\"
+***
+*****************************************************
+
+
+1. Run Main
+	This application uses files within the project folders
+	insertRatings Runs slow, since it is trying to insert and parse 1,000,000+ lines of data
+
+
+
+*******************************************************
+***
+***		Ricardo Farias
+***		August 13, 2018
+***		Database Programming Final
+***
+********************************************************
